@@ -1,2 +1,2 @@
 # JavaBrains
-Java Brain is a spring project of lalit salpekar.
+Java Brain is a spring mvc project of lalit salpekar.
