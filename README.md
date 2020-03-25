@@ -1,2 +1,2 @@
 # JavaBrains
-Java Brain is a java project of lalit salpekar.
+Java Brain is a project of lalit salpekar.
